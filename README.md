@@ -1,5 +1,5 @@
-# Métodos Numéricos (Numerical Methods)
-Repository for the "Métodos Numéricos" course at Instituto Politécnico da Guarda (IPG), part of the "Licenciatura em Engenharia Informática" degree program. This repository contains exercises, resources, and materials related to the study of Numerical Methods.
+# Métodos Numéricos (Numerical Analysis)
+Repository for the "Métodos Numéricos" course at Instituto Politécnico da Guarda (IPG), part of the "Licenciatura em Engenharia Informática" degree program. This repository contains exercises, resources, and materials related to the study of Numerical Analysis.
 
 ## Course Objectives
 Provide students with knowledge and skills in numerical analysis to facilitate the understanding of subjects from other courses and the application of these concepts in professional life. The key objectives include:
