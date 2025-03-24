@@ -60,12 +60,3 @@ Provide students with knowledge and skills in numerical analysis to facilitate t
 ## Learning Methodologies
 - Theoretical-practical teaching approach with practical problem-solving applications.
 - **Final Assessment:** Written final exam.
-
-## Important Notes
-- This repository will contain all relevant materials and exercises related to the course.
-- Future updates will include additional resources and notes as needed.
-
----
-
-## Contributions
-Feel free to contribute to this repository by adding your own notes, exercises, or relevant resources related to the course.
