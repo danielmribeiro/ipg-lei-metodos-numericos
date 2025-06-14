@@ -57,10 +57,6 @@ Provide students with knowledge and skills in numerical analysis to facilitate t
 - Runge-Kutta methods
 - Multi-step formulas
 
-## Learning Methodologies
-- Theoretical-practical teaching approach with practical problem-solving applications.
-- **Final Assessment:** Written final exam.
-
 -----
 
  For more course-related assignments, check out the [Engenharia Informatica repository](https://github.com/danielmribeiro/engenharia-informatica).
